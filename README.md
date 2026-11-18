@@ -4,6 +4,10 @@ Rzeczy, które robię, żeby nie klikać tego samego codziennie. Większość to
 
 Tych przepływów nie wrzucam, bo są pełne kluczy API i prywatnych danych. Wrzucam za to kawałek największej rzeczy, czyli śledzenia cen lotów.
 
+![Monitorowane trasy](img/trasy.png)
+
+![Szczegóły trasy](img/trasa.png)
+
 ## śledzenie cen lotów
 
 Dodajesz trasę (skąd, dokąd, kiedy, ewentualnie maksymalna cena), a apka co godzinę sprawdza ceny u kilku dostawców i zapisuje historię. Na tej podstawie:
